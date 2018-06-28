@@ -1,8 +1,4 @@
 words: He, She, It, I, You, They. 
 
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:8010/eureka/
 server:
   port: ${PORT:${SERVER_PORT:0}}

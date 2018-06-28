@@ -1,7 +1,5 @@
 spring:
-  application:
-    name: lab-4-subject
   cloud:
     config:
-      uri: 
+      uri:
         http://localhost:8001
